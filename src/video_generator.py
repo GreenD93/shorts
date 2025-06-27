@@ -1,5 +1,5 @@
-from luma_generator import LumaGenerator
-from img_generator import ImgGenerator
+from src.luma_generator import LumaGenerator
+from src.img_generator import ImgGenerator
 
 from PIL import Image
 import io
